@@ -1,0 +1,30 @@
+
+
+
+
+
+@import "/Final_layout_misc/normalize.css";
+@import "/Final_layout/responsive";
+
+
+/* //setups */
+@import "/Final_layout_misc/mixins";
+@import "/Final_layout_misc/fonts";
+@import "/Final_layout_misc/layout";
+
+/* //blocks */
+@import "/Final_layout/blocks/scrollbar.css" screen;
+@import "/Final_layout/blocks/hero.css" screen;
+@import "/Final_layout/blocks/header.css" screen;
+@import "/Final_layout/blocks/composition.css" screen;
+@import "/Final_layout/blocks/menu.css" screen;
+@import "/Final_layout/blocks/btn.css" screen;
+@import "/Final_layout/blocks/situation.css" screen;
+@import "/Final_layout/blocks/what.css" screen;
+@import "/Final_layout/blocks/why.css" screen;
+@import "/Final_layout/blocks/who.css" screen;
+@import "/Final_layout/blocks/how.css" screen;
+@import "/Final_layout/blocks/promotion.css" screen;
+@import "/Final_layout/blocks/start.css" screen;
+@import "/Final_layout/blocks/contact.css" screen;
+@import "/Final_layout/blocks/footer.css" screen;
