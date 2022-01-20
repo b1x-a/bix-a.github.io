@@ -3,14 +3,14 @@
 
 
 
-@import "_misc/normalize.css";
+@import "misc/normalize.css";
 @import "responsive";
 
 
 /* //setups */
-@import "_misc/mixins";
-@import "_misc/fonts";
-@import "_misc/layout";
+@import "misc/mixins";
+@import "misc/fonts";
+@import "misc/layout";
 
 /* //blocks */
 @import "/blocks/scrollbar.css" screen;
