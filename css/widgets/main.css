@@ -9,18 +9,18 @@
 @import "../../_misc/layout";
 
 /* //blocks */
-@import "../../blocks/scrollbar.css" screen;
-@import "../../blocks/hero.css" screen;
-@import "../../blocks/header.css" screen;
-@import "../../blocks/composition.css" screen;
-@import "../../blocks/menu.css" screen;
-@import "../../blocks/btn.css" screen;
-@import "../../blocks/situation.css" screen;
-@import "../../blocks/what.css" screen;
-@import "../../blocks/why.css" screen;
-@import "../../blocks/who.css" screen;
-@import "../../blocks/how.css" screen;
-@import "../../blocks/promotion.css" screen;
-@import "../../blocks/start.css" screen;
-@import "../../blocks/contact.css" screen;
-@import "../../blocks/footer.css" screen;
+@import "../../blocks/scrollbar.css";
+@import "../../blocks/hero.css";
+@import "../../blocks/header.css";
+@import "../../blocks/composition.css";
+@import "../../blocks/menu.css";
+@import "../../blocks/btn.css";
+@import "../../blocks/situation.css";
+@import "../../blocks/what.css";
+@import "../../blocks/why.css";
+@import "../../blocks/who.css";
+@import "../../blocks/how.css";
+@import "../../blocks/promotion.css";
+@import "../../blocks/start.css";
+@import "../../blocks/contact.css";
+@import "../../blocks/footer.css";
