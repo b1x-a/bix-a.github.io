@@ -6,7 +6,7 @@
 @import "./misc/normalize.css";
 /* //setups */
 @import "./misc/fonts";
-@import "./misc/layout";
+@import "./misc/layout.css";
 
 /* //blocks */
 @import "./blocks/scrollbar.css";
