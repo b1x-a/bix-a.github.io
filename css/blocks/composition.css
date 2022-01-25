@@ -20,7 +20,7 @@
   display: block;
   border-radius: 50%;
   border: 120px #fdbf0f solid;
-  background:url(/img/bg/ali.png) center no-repeat;
+  background:url(../../img/bg/ali.png) center no-repeat;
 
 }
 .composition__content-top{
