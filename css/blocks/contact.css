@@ -1,5 +1,5 @@
 .contact{
-  background: no-repeat url(/Final_layout/img/bg/form-bg.jpg) center bottom;
+  background: no-repeat url(/img/bg/form-bg.jpg) center bottom;
   background-size: cover;
   padding-top: 0.3125rem;
   padding-bottom: 0.875rem;
@@ -21,7 +21,7 @@
 }
 .contact__content{
   
-  background: no-repeat url(/Final_layout/img/items/krug.svg);
+  background: no-repeat url(/img/items/krug.svg);
   padding: 2.375rem 7.875rem 4.1875rem 2.125rem;
   margin-left: 10.4425rem;
   margin-top: 2.25rem;
